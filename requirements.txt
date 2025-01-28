@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+scipy
+featuretools
+sqlalchemy
+pymysql
+pyodbc
+openpyxl 

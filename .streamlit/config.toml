@@ -1,0 +1,28 @@
+[theme]
+ primaryColor = "#E694FF"
+ backgroundColor = "#00172B"
+secondaryBackgroundColor = "#0083B8"
+textColor = "#C6CDD4"
+ font = "sans-serif"
+[server]
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[global]
+developmentMode = false
+
+[deprecation]
+showPyplotGlobalUse = false
+
+[runner]
+# Handle script rerun behavior
+magicEnabled = true
+fastReruns = true
+
+[client]
+# Enables more streamlined error display
+showErrorDetails = true
+toolbarMode = "auto" 
