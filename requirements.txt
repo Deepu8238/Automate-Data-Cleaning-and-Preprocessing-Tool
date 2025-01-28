@@ -7,4 +7,6 @@ featuretools
 sqlalchemy
 pymysql
 pyodbc
-openpyxl 
+openpyxl
+setuptools>=41.0.0
+woodwork 
